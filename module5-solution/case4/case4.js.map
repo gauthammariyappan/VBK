@@ -1,0 +1,1 @@
+{"version":3,"sources":["sourceMap"],"names":["case4","_0x2b6663","y"],"mappings":"AAAA,SAASA,KAAT,E,CACA,IAAIC,SAAA,C,GAAJ,CACAA,SAAA,CAAIC,CAAA,C","sourcesContent":["function case4() {\nlet x= 10;\nx = y + 10;\n}"]}
